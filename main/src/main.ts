@@ -2,8 +2,8 @@ import './assets/main.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import Wujie from 'wujie-vue3'//引入对应的框架
-
+//import Wujie from 'wujie-vue3'//引入对应的框架
+import Wujie from 'wujie-vue3-test'//引入封装的框架
 import {a,b} from 'common'
 
 

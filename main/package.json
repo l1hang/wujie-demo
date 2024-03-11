@@ -15,7 +15,8 @@
     "vue": "^3.4.15",
     "vue-router": "^4.2.5",
     "wujie": "^1.0.22",
-    "wujie-vue3": "^1.0.22"
+    "wujie-vue3": "^1.0.22",
+    "wujie-vue3-test": "^0.0.5"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",

@@ -31,6 +31,9 @@ importers:
       wujie-vue3:
         specifier: ^1.0.22
         version: 1.0.22(vue@3.4.21)
+      wujie-vue3-test:
+        specifier: ^0.0.5
+        version: 0.0.5
     devDependencies:
       '@tsconfig/node20':
         specifier: ^20.1.2
@@ -2476,6 +2479,12 @@ packages:
   /wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
     dev: true
+
+  /wujie-vue3-test@0.0.5:
+    resolution: {integrity: sha512-wBD1qqrlUDabwTWDmD7MiDYI0HGfiGqDSpZlj9PflJixhG6XuqU82TLIRe/v4UHopO4q5vDNvDg2bAn1vhl7JQ==}
+    dependencies:
+      wujie: 1.0.22
+    dev: false
 
   /wujie-vue3@1.0.22(vue@3.4.21):
     resolution: {integrity: sha512-/FD52+3rEg4vQb6EhSq+V9WMhaHYyVliUsVDBIzePcX0yUsep+4oC8r3EmyeS2dfEl3DCmMwLz5MnBGL3c4Msw==}
